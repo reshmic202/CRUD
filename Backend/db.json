@@ -1,0 +1,46 @@
+{
+  "employees": [
+    {
+      "empName": "Reshmi",
+      "empSalary": "20000",
+      "empCompany": "TCS",
+      "id": 1
+    },
+    {
+      "empName": "Salu",
+      "empSalary": "24000",
+      "empCompany": "IBM",
+      "id": 2
+    },
+    {
+      "empName": "abc",
+      "empSalary": "123",
+      "empCompany": "xyz",
+      "id": 3
+    },
+    {
+      "empName": "Romit",
+      "empSalary": "30000",
+      "empCompany": "Wipro",
+      "id": 4
+    },
+    {
+      "empName": "Sks",
+      "empSalary": "30000",
+      "empCompany": "TCS",
+      "id": 5
+    },
+    {
+      "empName": "abc",
+      "empSalary": "1234",
+      "empCompany": "xyz",
+      "id": 6
+    },
+    {
+      "empName": "dombi",
+      "empSalary": "4000",
+      "empCompany": "IBM",
+      "id": 7
+    }
+  ]
+}
